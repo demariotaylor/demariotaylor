@@ -7,10 +7,6 @@
 2. Replace the banner image link with one you add to your repo (e.g., /assets/banner.png).
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/demariotaylor/demariotaylor/main/assets/cyber-banner.png" alt="Cybersecurity Banner" />
-</p>
-
 <h1 align="center">Hi, I'm DeMario 👋</h1>
 
 <p align="center">
